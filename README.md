@@ -9,7 +9,7 @@
    https://www.timeanddate.com/weather/india/kerala
  
 ## Source code 
-### Data Preparation and Transformation using Python Libraries:
+### Data Preparation and Transformation using Python:
 1. Seasonality Mortality Data Preparation
 2. Seasonality Mortality EDA and Visualizations
 
